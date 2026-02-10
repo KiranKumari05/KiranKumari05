@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Kiran Kumari K J  
 
-<!--
-**KiranKumari05/KiranKumari05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2026 CSE Graduate**  
+💻 **Java Full Stack Developer (Learning)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Java, OOPs, JDBC  
+- Spring Boot (Basics)  
+- HTML, CSS, JavaScript  
+- SQL, MySQL  
+- Git & GitHub  
+
+---
+
+### 🌱 Currently Learning
+- Spring Boot + REST APIs  
+- React  
+- Backend Development  
+
+---
+
+### 📫 Connect with Me
+- 🔗 **LinkedIn:** [Kiran Kumari K J](https://www.linkedin.com/in/kiran-kumari-kj-b210a826a)  
+- 📧 **Email:** [kirankumarikj235@gmail.com](mailto:kirankumarikj235@gmail.com)  
+
+---
+
+✨ *Building skills one project at a time*  
+
