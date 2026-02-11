@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/kiran-kumari-kj-b210a826a ">
+  <a href="www.linkedin.com/in/kiran-kumari-kj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:kirankumarikj235@gmail.com">
@@ -76,7 +76,7 @@
 
 ## 📫 Let's Connect
 
-🔗 LinkedIn: www.linkedin.com/in/kiran-kumari-kj-b210a826a  
+🔗 LinkedIn: www.linkedin.com/in/kiran-kumari-kj
 📧 Email: kirankumarikj235@gmail.com  
 
 ---
