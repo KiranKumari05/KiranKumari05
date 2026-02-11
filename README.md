@@ -1,61 +1,87 @@
-<h1 align="center">Hi 👋 I'm Kiran Kumari K J</h1>
+<h1 align="center">
+  <span style="color:#6C63FF;">Hi 👋, I'm Kiran Kumari K J</span>
+</h1>
+
+<h3 align="center">
+  🎓 BE CSE (2026) | 💻 Java Full Stack Developer | 🚀 Tech Enthusiast
+</h3>
 
 <p align="center">
-  🎓 2026 CSE Graduate <br/>
-  💻 Java Full Stack Developer (Learning)
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;Backend+Enthusiast;Future+Software+Engineer" />
 </p>
 
-<hr/>
-
-<h2>🔧 Skills</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</p>
-
-- Java, OOPs, JDBC  
-- Spring Boot (Basics)  
-- HTML, CSS, JavaScript  
-- SQL, MySQL  
-- Git & GitHub  
-
----
-
-<h2>🌱 Currently Learning</h2>
-
-- Spring Boot + REST APIs  
-- React  
-- Backend Development  
-
----
-
-<h2>📫 Connect with Me</h2>
-
-<p>
-  🔗 <b>LinkedIn:</b> 
-  <a href="https://www.linkedin.com/in/kiran-kumari-kj-b210a826a">
-    Kiran Kumari K J
+<p align="center">
+  <a href="www.linkedin.com/in/kiran-kumari-kj-b210a826a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
-<p>
-  📧 <b>Email:</b> 
   <a href="mailto:kirankumarikj235@gmail.com">
-    kirankumarikj235@gmail.com
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  ✨ <i>Building skills one project at a time</i>
+## ✨ About Me
+
+💡 Passionate Computer Science student graduating in 2026  
+💻 Currently learning & building with *Java Full Stack*  
+🌱 Exploring *Spring Boot, REST APIs & React*  
+🔥 Love solving problems & improving backend logic  
+🎯 Goal: Become a skilled Software Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+✔ Spring Boot + REST APIs  
+✔ React JS  
+✔ Backend Architecture & API Integration  
+
+---
+
+## 📫 Let's Connect
+
+🔗 LinkedIn: www.linkedin.com/in/kiran-kumari-kj-b210a826a  
+📧 Email: kirankumarikj235@gmail.com  
+
+---
+
+<p align="center">
+  💜 <b>“Code. Build. Learn. Repeat.”</b> 💜
+</p>
 
