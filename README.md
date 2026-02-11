@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/kiran-kumari-kj">
+  <a href="https://www.linkedin.com/in/kiran-kumari-kj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:kirankumarikj235@gmail.com">
@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 ## 📫 Let's Connect
 
-🔗 LinkedIn: www.linkedin.com/in/kiran-kumari-kj
+🔗 LinkedIn: https://www.linkedin.com/in/kiran-kumari-kj  
 📧 Email: kirankumarikj235@gmail.com  
 
 ---
@@ -84,4 +84,5 @@
 <p align="center">
   💜 <b>“Code. Build. Learn. Repeat.”</b> 💜
 </p>
+>
 
